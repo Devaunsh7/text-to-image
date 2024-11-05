@@ -1,0 +1,9 @@
+tensorflow
+pandas
+numpy
+matplotlib
+pillow
+tqdm
+requests
+scikit-learn
+gradio
